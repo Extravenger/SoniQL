@@ -1,2 +1,3 @@
-# SoniQL
-A tool that is all about speed when getting messy with MSSQL servers within a domain.
+# SoniQL: Speedy MSSQL Enumeration and Exploitation built espeically as part of the OSEP course
+
+SoniQL is an ultra-fast tool designed for offensive security professionals, specifically red teamers, penetration testers, and ethical hackers. It is built with a single goal in mind: speed. SoniQL excels in quickly discovering, interacting with, and exploiting MSSQL servers within a domain. With its streamlined workflow, you can efficiently perform enumeration, privilege escalation, and exploitation tasks, saving precious time during assessments.
