@@ -4,7 +4,7 @@ SoniQL is an ultra-fast tool designed specifically for offensive security profes
 
 # Impersonation and Command Execution:
 - Impersonate as a LOGIN (e.g., SA) on a connected MSSQL server and achieve command execution via xp_cmdshell or sp_oamethod.
-- Impersonate as a USER (e.g., dbo) on a connected MSSQL server and gain command execution through xp_cmdshell or sp_oamethod.
+- Impersonate as a USER (e.g., dbo) on a connected MSSQL server and gain command execution through xp_cmdshell or sp_oamethod. (No command output)
 - Linked Server Access: Connect to linked MSSQL servers, enable xp_cmdshell, and execute commands remotely on those servers.
 
 # Usage:
