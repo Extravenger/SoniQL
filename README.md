@@ -1,6 +1,6 @@
 # SoniQL: Speedy MSSQL Enumeration and Exploitation (OSEP Edition)
 
-SoniQL is an ultra-fast tool designed specifically for offensive security professionals, including red teamers, penetration testers, and ethical hackers. Built with speed as its core objective, SoniQL enables quick discovery, interaction, and exploitation of MSSQL servers within a domain. Whether you're performing enumeration, privilege escalation, or exploitation, SoniQL's streamlined process helps you save time during assessments—making it the perfect tool for real-world red team operations, especially as part of the OSEP course.
+SoniQL is an ultra-fast tool designed specifically for offensive security professionals, including red teamers, penetration testers, and ethical hackers. Built with speed as its core objective, SoniQL enables quick discovery, interaction, and exploitation of MSSQL servers within a domain. Whether you're performing enumeration, privilege escalation, or exploitation, SoniQL's streamlined process helps you save time during assessments—making it the perfect tool for real-world red team operations.
 
 # Impersonation and Command Execution:
 - Impersonate as a LOGIN (e.g., SA) on a connected MSSQL server and achieve command execution via xp_cmdshell or sp_oamethod.
