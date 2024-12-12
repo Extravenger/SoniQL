@@ -11,7 +11,3 @@ Key Features:
 # Usage:
 
 - Simply download the executable, connect to the MSSQL instance, and start interacting with the server. From there, you can easily enumerate, escalate privileges, and exploit the system.
-
-# ToDo:
-
-    xp_dirtree option (planned for future release).
